@@ -24,5 +24,4 @@ trong chương trình:
 * Admin: xem, tìm kiếm, chèn, sửa, xoá thông tin
 
 ![myimage-alt-tag](https://ibb.co/tC2z4jH)
-![myimage-alt-tag](https://ibb.co/Bq6Bf8d)
-![myimage-alt-tag](https://ibb.co/qRc12WP)
+
