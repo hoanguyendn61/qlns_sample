@@ -23,5 +23,8 @@ trong chương trình:
 * Guest : xem và tìm kiếm thông tin
 * Admin: xem, tìm kiếm, chèn, sửa, xoá thông tin
 
-![myimage-alt-tag](https://ibb.co/tC2z4jH)
+![myimage-alt-tag](https://i.ibb.co/3hFv76T/2021-11-17-10-44-40.png)
 
+![myimage-alt-tag](https://i.ibb.co/30jhPML/2021-11-17-10-46-00.png)
+
+![myimage-alt-tag](https://i.ibb.co/72pKS78/2021-11-17-10-45-22.png)
