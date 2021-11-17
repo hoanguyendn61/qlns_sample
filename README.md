@@ -3,10 +3,7 @@ A Simple Dynamic Web Project Sample for CNWEB and LAP TRINH MANG
 **QUẢN LÝ NHÂN SỰ**
 Xây dựng một ứng dụng web bằng JSP, SERVLET theo mô hình MVC
 + Tạo cơ sở dữ liệu có tên: DULIEU
-+ Tạo các bảng:
--   admin(username, password)
--   nhanvien(IDNV, Hoten, IDPB, Diachi)
--   phongban(IDPB, Tenpb, Mota)
++ Tạo các bảng: admin(username, password), nhanvien(IDNV, Hoten, IDPB, Diachi), phongban(IDPB, Tenpb, Mota)
 
 Xây dựng ứng dụng cung cấp các chức năng của hệ thống như sau:
 - 3.1 Cho phép liệt kê tất cả nhân viên của bảng nhanvien
