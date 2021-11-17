@@ -1,6 +1,6 @@
 # qlns_sample
-A Simple Dynamic Web Project Sample for CNWEB and LAP TRINH MANG
-**QUẢN LÝ NHÂN SỰ**
+A Simple Dynamic Web Project Sample for CNWEB and LAP TRINH MANG \n
+**QUẢN LÝ NHÂN SỰ** \n
 Xây dựng một ứng dụng web bằng JSP, SERVLET theo mô hình MVC
 + Tạo cơ sở dữ liệu có tên: DULIEU
 + Tạo các bảng: admin(username, password), nhanvien(IDNV, Hoten, IDPB, Diachi), phongban(IDPB, Tenpb, Mota)
