@@ -16,7 +16,8 @@ từng phòng ban
 - 3.5 Cho phép cập nhật thông tin của bảng phongban
 - 3.6 Xoá thông tin của bảng nhanvien
 - 3.7 Xoá nhiều nhân viên của bảng nhanvien
-Chú ý: Thiết kế lại giao diện chương trình và phân quyền cho hai đối tượng người dùng
+
+**Chú ý:** Thiết kế lại giao diện chương trình và phân quyền cho hai đối tượng người dùng
 trong chương trình:
 o Guest : xem và tìm kiếm thông tin
 o Admin: xem, tìm kiếm, chèn, sửa, xoá thông tin
