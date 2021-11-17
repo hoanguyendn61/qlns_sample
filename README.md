@@ -19,5 +19,5 @@ từng phòng ban
 
 **Chú ý:** Thiết kế lại giao diện chương trình và phân quyền cho hai đối tượng người dùng
 trong chương trình:
-o Guest : xem và tìm kiếm thông tin
-o Admin: xem, tìm kiếm, chèn, sửa, xoá thông tin
+* Guest : xem và tìm kiếm thông tin
+* Admin: xem, tìm kiếm, chèn, sửa, xoá thông tin
